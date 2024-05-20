@@ -32,3 +32,6 @@ This chocolate sales dashboard provides a high-level overview of sales performan
 * **Total Boxes Shipped:** 1344.6 thousand
 * **Total Shipments:** 3791
 
+
+SNAPSHOT OF DASHBOARD
+![Sales Dashboard](https://github.com/Aishwaryasri15/Excel_Sales_Dashboard/assets/53164418/0ca4f11f-da44-4975-988d-db21f98d3097)
