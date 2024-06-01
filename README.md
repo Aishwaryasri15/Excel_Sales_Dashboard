@@ -1,4 +1,4 @@
-**Dynamic Interactive Chocolate Sales Dashboard**
+***Dynamic Interactive Chocolate Sales Dashboard ![image](https://github.com/Aishwaryasri15/Excel_Sales_Dashboard/assets/53164418/cf5df4c4-fef8-41bf-918c-38dc09452c41)***
 
 **Description:**
 
