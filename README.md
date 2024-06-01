@@ -1,40 +1,40 @@
-Chocolate Sales Performance Dashboard![image](https://github.com/Aishwaryasri15/Excel_Sales_Dashboard/assets/53164418/6b25b641-ab2e-41e7-b09d-ab482b648037)
-
+**Dynamic Interactive Chocolate Sales Dashboard**
 
 **Description:**
 
-This chocolate sales dashboard provides a high-level overview of sales performance, including key performance indicators (KPIs) such as total sales, profit, and shipment volume. It also allows users to drill down into sales data by region, team, category, and individual product. The dashboard includes the following functionalities:
+Developed a dynamic and interactive Excel dashboard to analyze and visualize chocolate sales performance, encompassing key performance indicators (KPIs) such as total sales, profit, and shipment volume. This dashboard enables users to drill down into sales data by region, team, category, and individual product, offering comprehensive insights into various aspects of the sales process.
 
-* **Sales Performance Summary:**  Displays total sales, profit, profit margin, total boxes shipped, and total shipments.
-* **Regional Performance:**  Shows sales and profit figures by country, allowing users to compare performance across different regions. New Zealand is currently leading in sales at $3.78 million, while the United States has the highest profit margin at 70.6%.
-* **Team Performance:**  Highlights the top-performing team in terms of sales (Yummies at $7.89 million) and allows users to compare sales figures between all four teams (Yummies, Delish, Jucies, and Tempo).
-* **Product Category Analysis:**  Provides a slicer to filter sales data by category (bars, bites, and others). This enables users to identify which categories are driving sales.
-* **Individual Product Performance:**  Allows users to view sales data for each product along with sorting options.
+**Functionalities:**
+
+- **Sales Performance Summary:** Displays total sales, profit, profit margin, total boxes shipped, and total shipments.
+- **Regional Performance:** Shows sales and profit figures by country, allowing comparison across different regions. Highlights include New Zealand leading in sales ($3.78 million) and the United States having the highest profit margin (70.6%).
+- **Team Performance:** Highlights the top-performing team (Yummies with $7.89 million in sales) and allows comparison between teams (Yummies, Delish, Jucies, Tempo).
+- **Product Category Analysis:** Provides a slicer to filter sales data by category (bars, bites, others), identifying which categories drive sales.
+- **Individual Product Performance:** Enables users to view sales data for each product with sorting options for detailed analysis.
 
 **Implementation Process:**
 
-1. **Data Model & Calculations:** The data model is established, and DAX measures are created in Power Pivot.
-2. **Slicers:** Category slicer is implemented.
-3. **KPI Tiles & Country Maps:** KPI tiles display key metrics, dynamically updating with category selection. Country maps are integrated with formulas to highlight the top performer and display additional metrics.
-4. **Sorting & Formatting:** Sorting options are added throughout the dashboard for both tables and charts. Conditional formatting like data bars and profit icons enhance visual representation.
-5. **Team Performance:** Team-related pivots and a bubble chart showcase team performance. Sparklines visualize trends for the last 28 days.
-6. **Product Performance:** Pivots with gauge charts analyze product category performance. A two-tier sorting table with linked product details and sparklines provides in-depth product insights.
+- **Data Model & Calculations:** Established a data model and created DAX measures in Power Pivot.
+- **Slicers:** Implemented category slicer for detailed filtering.
+- **KPI Tiles & Country Maps:** Integrated KPI tiles and country maps with dynamic formulas to highlight top performers and display additional metrics.
+- **Sorting & Formatting:** Added sorting options and conditional formatting such as data bars and profit icons to enhance visual representation.
+- **Team Performance:** Utilized pivots and a bubble chart to showcase team performance, with sparklines visualizing trends over the last 28 days.
+- **Product Performance:** Created pivots with gauge charts for product category analysis and a two-tier sorting table with linked product details and sparklines for in-depth insights.
 
 **Insights:**
 
-* **Strong Overall Performance:**  The dashboard showcases a total sales figure of $21.70 million with a profit margin of 69.2%, indicating strong overall sales performance.
-* **Geographic Profitability:**  While New Zealand has the highest sales figures, the United States boasts the highest profit margin, suggesting an opportunity to optimize sales strategy in New Zealand to improve profitability.  
-* **Yummies Team Leads:**  The Yummies team is currently leading in sales, and further analysis can be conducted to understand the reasons behind their success, which could be shared with other teams.
-* **Category Breakdown:**  By using the category slicer, users can gain insights into which chocolate categories are most profitable and use this information to inform product development or marketing strategies.
+- **Strong Overall Performance:** Total sales of $21.70 million with a profit margin of 69.2%, indicating strong performance.
+- **Geographic Profitability:** New Zealand leads in sales, but the US has a higher profit margin, suggesting optimization opportunities for New Zealand.
+- **Yummies Team Leads:** The Yummies team leads in sales, providing a benchmark for other teams.
+- **Category Breakdown:** Insights into profitable chocolate categories to inform product development and marketing strategies.
 
 **Key Performance Indicators (KPIs):**
 
-* **Total Sales:** $21.70 million
-* **Profit:** $15.02 million
-* **Profit Margin:** 69.2%
-* **Total Boxes Shipped:** 1344.6 thousand
-* **Total Shipments:** 3791
-
+- **Total Sales:** $21.70 million
+- **Profit:** $15.02 million
+- **Profit Margin:** 69.2%
+- **Total Boxes Shipped:** 1344.6 thousand
+- **Total Shipments:** 3791
 
 SNAPSHOT OF DASHBOARD
 ![Sales Dashboard](https://github.com/Aishwaryasri15/Excel_Sales_Dashboard/assets/53164418/0ca4f11f-da44-4975-988d-db21f98d3097)
