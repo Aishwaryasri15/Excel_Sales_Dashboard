@@ -1,3 +1,6 @@
+Chocolate Sales Performance Dashboard![image](https://github.com/Aishwaryasri15/Excel_Sales_Dashboard/assets/53164418/6b25b641-ab2e-41e7-b09d-ab482b648037)
+
+
 **Description:**
 
 This chocolate sales dashboard provides a high-level overview of sales performance, including key performance indicators (KPIs) such as total sales, profit, and shipment volume. It also allows users to drill down into sales data by region, team, category, and individual product. The dashboard includes the following functionalities:
